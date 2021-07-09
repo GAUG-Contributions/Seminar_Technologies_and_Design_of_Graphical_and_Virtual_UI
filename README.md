@@ -3,6 +3,6 @@ Georg-August-University Goettingen
 
 (Seminar) Technologies and Design of Graphical and Virtual User Interfaces - Fall 2019
 
-Supervisor: Patrick Harms
+Supervisor: Prof. Dr. Patrick Harms
 
 Topic: Application Areas of Augmented and Virtual Reality
