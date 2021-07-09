@@ -1,0 +1,30 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Application areas of Virtual and Augmented Reality}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Health-care}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Pain management}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Phobia treatment}{3}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Identifying the early signs of schizophrenia}{3}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Education}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Military}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Engineering and Industry}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Food Sector}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Real Estate}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Entertainment}{6}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Current issues with Virtual and Augmented Reality}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Current issues with Virtual Reality}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Simulator sickness}{7}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Movement}{7}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}The screen-door effect}{8}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Health risks}{8}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Current issues with Augmented Reality}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}First impression}{8}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Cost and Availability}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Tracking}{9}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Perceived usefulness}{10}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Field of view}{10}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Visuals}{11}{subsubsection.3.2.6}%
+\contentsline {section}{\numberline {4}Conclusion}{11}{section.4}%
+\contentsline {section}{Abbreviations and Acronyms}{12}{section*.8}%
+\contentsline {section}{List of Figures}{12}{section*.9}%
+\contentsline {section}{References}{12}{section*.10}%
